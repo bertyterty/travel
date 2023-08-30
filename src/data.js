@@ -1,4 +1,4 @@
-export default [
+let data = [
     {
         id: 1,
         title: "Mount Fuji",
@@ -31,13 +31,4 @@ export default [
     }
 ]
 
-// ,
-//     {
-//         title: "",
-//         location: "",
-//         googleMapsUrl: "",
-//         startDate: "",
-//         endDate: "",
-//         description: "",
-//         imageUrl: ""
-//     }
+export default data;
